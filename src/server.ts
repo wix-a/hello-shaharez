@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { hot } from 'bootstrap-hot-loader';
+import { hot } from '@wix/bootstrap-hot-loader';
 import * as wixExpressCsrf from '@wix/wix-express-csrf';
 import * as wixExpressRequireHttps from '@wix/wix-express-require-https';
 
